@@ -4,13 +4,14 @@
 
 - [변수 (기본규칙)](https://calvin9150.tistory.com/4)
 - [변수 (자동 형변환, Scanner, 버퍼비우기)](https://calvin9150.tistory.com/5)
-- [Collection (list)\_20210219](<https://github.com/calvin9150/TIL/blob/main/JAVA/Collection(list)_20210219.md>)
-- [Collection (comparator)\_2021022](<https://github.com/calvin9150/TIL/blob/main/JAVA/Collection(comparator)_20210222.md>)
-- [Collection (map)\_20210222](<https://github.com/calvin9150/TIL/blob/main/JAVA/Collection(map)_20210222.md>)
-- [Collection (set)\_20210222](<https://github.com/calvin9150/TIL/blob/main/JAVA/Collection(set)_20210222.md>)
-- [Network_20210223](https://calvin9150.tistory.com/24?category=1179588)
-- [Generics_20210223](https://calvin9150.tistory.com/22?category=1179588)
-- [Thread_20210223](https://calvin9150.tistory.com/23?category=1179588)
+- [Collection (list)\_2021-02-19](<https://github.com/calvin9150/TIL/blob/main/JAVA/Collection(list)_20210219.md>)
+- [Collection (comparator)\_2021-02-22](<https://github.com/calvin9150/TIL/blob/main/JAVA/Collection(comparator)_20210222.md>)
+- [Collection (map)\_2021-02-22](<https://github.com/calvin9150/TIL/blob/main/JAVA/Collection(map)_20210222.md>)
+- [Collection (set)\_2021-02-22](<https://github.com/calvin9150/TIL/blob/main/JAVA/Collection(set)_20210222.md>)
+- [Collection (핵심정리)\_2021-02-25](https://calvin9150.tistory.com/30)
+- [Network_2021-02-23](https://calvin9150.tistory.com/24?category=1179588)
+- [Generics_2021-02-23](https://calvin9150.tistory.com/22?category=1179588)
+- [Thread_2021-02-23](https://calvin9150.tistory.com/23?category=1179588)
 
 ### JavaScript
 
