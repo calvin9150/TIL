@@ -16,3 +16,8 @@
 
 - [루빅스큐브 만들기 step-1](https://github.com/calvin9150/codeSquadTest/tree/step-1)
 - [루빅스큐브 만들기 step-2](https://github.com/calvin9150/codeSquadTest/tree/step-2)
+
+---
+
+- [1장 프로그래밍 사고력\_2021-02-23](https://calvin9150.tistory.com/28)
+- [2장 기본 문법\_2021-02-24](https://calvin9150.tistory.com/29)
