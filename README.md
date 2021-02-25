@@ -13,6 +13,10 @@
 - [Generics_2021-02-23](https://calvin9150.tistory.com/22?category=1179588)
 - [Thread_2021-02-23](https://calvin9150.tistory.com/23?category=1179588)
 
+### Oracle DB
+
+- [Database 기본1_2021-02-25](https://calvin9150.tistory.com/31)
+
 ### JavaScript
 
 - [루빅스큐브 만들기 step-1](https://github.com/calvin9150/codeSquadTest/tree/step-1)
