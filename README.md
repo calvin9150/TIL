@@ -16,6 +16,7 @@
 ### Oracle DB
 
 - [Database 기본1_2021-02-25](https://calvin9150.tistory.com/31)
+- [Database 기본2_2021-02-26](https://calvin9150.tistory.com/35)
 
 ### JavaScript
 
@@ -26,3 +27,5 @@
 
 - [1장 프로그래밍 사고력\_2021-02-23](https://calvin9150.tistory.com/28)
 - [2장 기본 문법\_2021-02-24](https://calvin9150.tistory.com/29)
+- [2장 변수, 조건문\_2021-02-25](https://calvin9150.tistory.com/33?category=1187638)
+- [2장 반복문, 배열, 함수\_2021-02-26](https://calvin9150.tistory.com/34)
