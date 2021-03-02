@@ -17,6 +17,7 @@
 
 - [Database 기본1_2021-02-25](https://calvin9150.tistory.com/31)
 - [Database 기본2_2021-02-26](https://calvin9150.tistory.com/35)
+- [Database 기본3_2021-03-02](https://calvin9150.tistory.com/39)
 
 ### JavaScript
 
@@ -32,3 +33,4 @@
 - [3장 끝말잇기 만들기\_2021-02-27](https://calvin9150.tistory.com/36)
 - [4장 함수 사용하기(계산기)-2021-02-28](https://calvin9150.tistory.com/37)
 - [5장 숫자야구\_2021-03-01](https://calvin9150.tistory.com/38)
+- [6~7장 로또뽑기, 가위바위보\_2021-03-02](https://calvin9150.tistory.com/40)
