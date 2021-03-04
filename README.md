@@ -35,3 +35,4 @@
 - [5장 숫자야구\_2021-03-01](https://calvin9150.tistory.com/38)
 - [6~7장 로또뽑기, 가위바위보\_2021-03-02](https://calvin9150.tistory.com/40)
 - [8장 Date사용하기-반응속도 테스트, 9장 이차원 배열 다루기-틱택토 게임\_2021-03-03](https://calvin9150.tistory.com/41)
+- [10장 클래스\_텍스트 RPG 게임 만들기\_2021-03-04](https://calvin9150.tistory.com/42)
