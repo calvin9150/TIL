@@ -18,6 +18,7 @@
 - [Database 기본1_2021-02-25](https://calvin9150.tistory.com/31)
 - [Database 기본2_2021-02-26](https://calvin9150.tistory.com/35)
 - [Database 기본3_2021-03-02](https://calvin9150.tistory.com/39)
+- [Database 기본4_2021-03-06](https://calvin9150.tistory.com/45)
 
 ### JavaScript
 
@@ -37,3 +38,4 @@
 - [8장 Date사용하기-반응속도 테스트, 9장 이차원 배열 다루기-틱택토 게임\_2021-03-03](https://calvin9150.tistory.com/41)
 - [10장 클래스\_텍스트 RPG 게임 만들기\_2021-03-04](https://calvin9150.tistory.com/42)
 - [11장 이벤트 루프 이해하기\_카드 짝맞추기 게임\_2021-03-05](https://calvin9150.tistory.com/43)
+- [12장 지뢰찾기\_2021-03-06](https://calvin9150.tistory.com/44)
