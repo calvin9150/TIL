@@ -39,3 +39,4 @@
 - [10장 클래스\_텍스트 RPG 게임 만들기\_2021-03-04](https://calvin9150.tistory.com/42)
 - [11장 이벤트 루프 이해하기\_카드 짝맞추기 게임\_2021-03-05](https://calvin9150.tistory.com/43)
 - [12장 지뢰찾기\_2021-03-06](https://calvin9150.tistory.com/44)
+- [13장 키보드, 마우스 이벤트 사용하기\_2048 게임\_2021-03-07](https://calvin9150.tistory.com/46)
