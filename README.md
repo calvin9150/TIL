@@ -21,6 +21,7 @@
 - [Database 기본4_2021-03-06](https://calvin9150.tistory.com/45)
 - [Database 기본5_2021-03-08](https://calvin9150.tistory.com/47)
 - [Database 기본6_2021-03-09](https://calvin9150.tistory.com/49)
+- [Database 기본7 (제약조건)\_2021-03-10](https://calvin9150.tistory.com/51)
 
 ### JavaScript
 
