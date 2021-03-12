@@ -28,6 +28,7 @@
 
 - [Spring 프로젝트 생성\_2021-03-11](https://calvin9150.tistory.com/52)
 - [Spring boot 프로젝트 생성\_2021-03-12](https://calvin9150.tistory.com/53?category=1190872)
+- [Spring 웹 개발 방식 3가지\_2021-03-13](https://calvin9150.tistory.com/55)
 
 ### JavaScript
 
