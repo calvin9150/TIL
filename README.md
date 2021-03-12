@@ -22,10 +22,12 @@
 - [Database 기본5_2021-03-08](https://calvin9150.tistory.com/47)
 - [Database 기본6_2021-03-09](https://calvin9150.tistory.com/49)
 - [Database 기본7 (제약조건)\_2021-03-10](https://calvin9150.tistory.com/51)
+- [Database 기본8 DDL(ALTER), DML(INSERT, UPDATE, DELETE)\_2021-03-12](https://calvin9150.tistory.com/54)
 
 ### Spring
 
 - [Spring 프로젝트 생성\_2021-03-11](https://calvin9150.tistory.com/52)
+- [Spring boot 프로젝트 생성\_2021-03-12](https://calvin9150.tistory.com/53?category=1190872)
 
 ### JavaScript
 
