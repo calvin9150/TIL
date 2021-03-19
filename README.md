@@ -23,8 +23,9 @@
 - [Database 기본6_2021-03-09](https://calvin9150.tistory.com/49)
 - [Database 기본7 (제약조건)\_2021-03-10](https://calvin9150.tistory.com/51)
 - [Database 기본8 DDL(ALTER), DML(INSERT, UPDATE, DELETE)\_2021-03-12](https://calvin9150.tistory.com/54)
-- [Database 기본9 Squence, View, Index, PL/SQL_2021-03-15](https://calvin9150.tistory.com/60)
+- [Database 기본9 SQUENCE, VIEW, INDEX, PL/SQL_2021-03-15](https://calvin9150.tistory.com/60)
 - [Database 기본10_TRIGGER, PROCEDURE, FUNCTION_2021-03-16](https://calvin9150.tistory.com/61)
+- [Database 기본11_JDBC_2021-03-19](https://calvin9150.tistory.com/62)
 
 ### Spring
 
