@@ -40,6 +40,8 @@
 ### JavaScript
 
 - [JSON basic (기능, object 전환)\_2021-04-09](https://calvin9150.tistory.com/68)
+- [Callback_2021-04-09](https://calvin9150.tistory.com/70)
+- [Promise_2021-04-09](https://calvin9150.tistory.com/69?category=1196416)
 
 - [루빅스큐브 만들기 step-1](https://github.com/calvin9150/codeSquadTest/tree/step-1)
 - [루빅스큐브 만들기 step-2](https://github.com/calvin9150/codeSquadTest/tree/step-2)
@@ -64,3 +66,7 @@
 ### React
 
 - [React 프로젝트 생성, 배포\_2021-03-14](https://calvin9150.tistory.com/58)
+
+### jQuery
+
+-[jQuery 선택자](https://calvin9150.tistory.com/72)
